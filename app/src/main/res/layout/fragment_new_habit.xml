@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.podraza.android.habit.habitbuilder.NewHabitFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TimePicker
+        android:layout_width="256dp"
+        android:layout_height="263dp"
+        android:id="@+id/timePicker"
+        android:layout_gravity="center" />
+</FrameLayout>
